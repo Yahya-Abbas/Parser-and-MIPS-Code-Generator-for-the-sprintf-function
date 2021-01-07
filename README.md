@@ -1,5 +1,5 @@
 # Parser-and-MIPS-Code-Generator-for-the-sprintf-function
-
+A parser and MIPS code generator for the *sprintf* function using MARS simulator
 ## Background
 *printf* is a C function that prints any sequence of characters on the console output (like cout in C++). 
 *sprintf* has basically the same behavior as *printf* except that the whole output string is put into a buffer instead of the console output. 
